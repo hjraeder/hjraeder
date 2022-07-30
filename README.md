@@ -9,4 +9,4 @@ hjraeder/hjraeder is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
  I’m interested in Photoshop scripting
- I’m currently learning UXP
+ I’m currently learning UXP and HTML & CSS
